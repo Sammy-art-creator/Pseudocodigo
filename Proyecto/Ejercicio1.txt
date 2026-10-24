@@ -1,0 +1,44 @@
+EJERCICIO 1 
+
+
+Instruccion / condicion                   |  a  |  b  |  c
+-------------------------------------------------------------------------------------
+a<-1                                      |  1  |  -  |  -
+a<-a*2                                    |  2  |  -  |  -
+b<-a*(4*6)-3                              |  2  | 45  |  -
+c<-(b+3)*a%3                              |  2  | 45  |  0
+
+ITERACION 1
+Mientras b>a y b>c                        |  2  | 45  |  0
+a<-a+1                                    |  3  | 45  |  0
+b<-TRUNC(b/2)                             |  3  | 22  |  0
+c<-c-1                                    |  3  | 22  | -1
+Si a>c                                    |  3  | 22  | -1
+a<-a+1  (rama Entonces)                   |  4  | 22  | -1
+
+ITERACION 2
+Mientras b>a y b>c                        |  4  | 22  | -1
+a<-a+1                                    |  5  | 22  | -1
+b<-TRUNC(b/2)                             |  5  | 11  | -1
+c<-c-1                                    |  5  | 11  | -2
+Si a>c                                    |  5  | 11  | -2
+a<-a+1  (rama Entonces)                   |  6  | 11  | -2
+
+ITERACION 3
+Mientras b>a y b>c                        |  6  | 11  | -2
+a<-a+1                                    |  7  | 11  | -2
+b<-TRUNC(b/2)                             |  7  |  5  | -2
+c<-c-1                                    |  7  |  5  | -3
+Si a>c                                    |  7  |  5  | -3
+a<-a+1  (rama Entonces)                   |  8  |  5  | -3
+
+
+FIN DEL BUCLE
+Mientras b>a y b>c                        |  8  |  5  | -3
+"Fin de la ejecucion del programa"        |  8  |  5  | -3
+
+
+VALORES FINALES
+a = 8
+b = 5
+c = -3
