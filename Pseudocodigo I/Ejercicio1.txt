@@ -1,0 +1,12 @@
+Inicio
+  Aparcar en un lugar llano y seguro, poner el freno de mano y las luces de emergencia
+  Sacar la rueda de repuesto, el gato y la llave de ruedas
+  Aflojar un poco los tornillos de la rueda pinchada
+  Colocar el gato y levantar el coche
+  Quitar los tornillos y retirar la rueda pinchada
+  Colocar la rueda de repuesto
+  Poner los tornillos y apretarlos a mano
+  Bajar el coche y retirar el gato
+  Apretar los tornillos a fondo (en cruz)
+  Guardar las herramientas y la rueda pinchada
+Fin

@@ -1,0 +1,12 @@
+2. Tabla de variables (A=4, B=2, C=3)
+#	Instrucción	    A	B	C
+1	A ← B	        2	2	3
+2	C ← A	        2	2	2
+3	B ← (A+B+C)/2	2	3	2
+4	A ← A + C	    4	3	2
+5	C ← B - A	    4	3	-1
+6	C ← C - A	    4	3	-5
+7	A ← A * B	    12	3	-5
+8	A ← A + 3	    15	3	-5
+9	A ← A % B	    0	3	-5
+10	C ← C + A	    0	3	-5

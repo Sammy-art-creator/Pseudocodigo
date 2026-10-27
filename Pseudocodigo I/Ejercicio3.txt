@@ -1,0 +1,9 @@
+#	Resultado	    #	Resultado
+1	4	            9	35 (con división entera: 34)
+2	6 (3.5 + 2.5)	10	Verdadero
+3	7.4	            11	Verdadero
+4	38	            12	Verdadero
+5	4.5	            13	Verdadero
+6	Verdadero	    14	Verdadero
+7	Verdadero	    15	Verdadero
+8	6.75		
